@@ -1,0 +1,10 @@
+@import 'settings';
+@import 'navbar';
+@import 'index';
+@import 'about';
+@import 'what_you_learn';
+@import 'footer';
+
+body {
+  font-family: $maven-font
+}
