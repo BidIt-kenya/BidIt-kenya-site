@@ -1,5 +1,6 @@
 # BidIt-kenya-site
-[![devDependency Status](https://david-dm.org/zurb/foundation-zurb-template/dev-status.svg)](https://david-dm.org/zurb/foundation-zurb-template#info=devDependencies)
+[![devDependency Status](https://david-dm.org/Krafty-Coder/Bidit-kenya-site.svg)](https://david-dm.org/Krafty-Coder/Bidit-kenya-site#info=devDependencies)
+
 The official web application for the bidit kenya organisation
 
 ### Manual Setup
